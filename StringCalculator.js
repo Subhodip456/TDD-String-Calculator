@@ -23,7 +23,7 @@ function add(numbers) {
 
 console.log(add("//;\n1;2"));    
 console.log(add("1\n2,3"));      
-console.log(add("10,20,30"));    
+console.log(add("1"));    
 console.log(add(""));            
 try {
     console.log(add("//;\n1;-2;-3")); 
